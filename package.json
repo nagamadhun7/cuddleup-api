@@ -1,7 +1,7 @@
 {
   "name": "cuddleup-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,8 @@
     "url": "https://github.com/nagamadhun7/cuddleup-api/issues"
   },
   "homepage": "https://github.com/nagamadhun7/cuddleup-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
